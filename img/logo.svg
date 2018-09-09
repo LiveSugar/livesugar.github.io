@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 26.458333 26.458334"
+   height="100"
+   width="100">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-270.54165)"
+     id="layer1">
+    <rect
+       ry="0"
+       y="270.54166"
+       x="-3.1789145e-07"
+       height="26.458334"
+       width="26.458334"
+       id="rect4518"
+       style="fill:#1459be;fill-opacity:1;stroke:none;stroke-width:27.14862061;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <g
+       transform="matrix(2.2619081,2.2619081,-2.2619081,2.2619081,625.16951,-340.73726)"
+       id="g4663">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.98148012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect4630"
+         width="2.6458333"
+         height="2.6458333"
+         x="0"
+         y="270.54166" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.98148012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect4630-2"
+         width="2.6458333"
+         height="2.6458333"
+         x="2.9104166"
+         y="273.45206" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.98148012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect4630-7"
+         width="2.6458333"
+         height="2.6458333"
+         x="0"
+         y="273.45206" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.98148012;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect4630-0"
+         width="2.6458333"
+         height="2.6458333"
+         x="2.9104166"
+         y="270.54166" />
+    </g>
+  </g>
+</svg>

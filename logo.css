@@ -1,0 +1,12 @@
+#logo {
+}
+#logo > div {
+  width:1000px;
+  margin:0px auto;
+}
+#logo > div > div {
+  display:inline-block;
+  vertical-align:top;
+  line-height:100px;
+  font-size:3rem;
+}

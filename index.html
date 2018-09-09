@@ -3,9 +3,32 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
+  <title>LiveSugar Framework</title>
+  <script>
+    let link = function(file){
+      document.write('<link rel="stylesheet" href="'+file+'?'+Math.random()+'">');
+    }
+    link('index.css');
+    link('logo.css');
+    link('menu.css');
+  </script>
 </head>
 
+
 <body>
-index.html 1
+  <div id="logo">
+    <div>
+      <div><img src="/img/logo.svg" /></div>
+      <div>LiveSugar Framework</div>
+    </div>
+  </div>
+  <div id="menu">
+    <div>
+      <a href="https://packagist.org/packages/livesugar/framework" target="_blank">Packagist
+      <a href="#">What is LiveSugar?
+      <a href="#">Getting Started
+      <a href="#">Documentation
+    </div>
+  </div>
 </body>
 </html>
